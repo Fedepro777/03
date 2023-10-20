@@ -1,0 +1,32 @@
+body {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 42px;
+    color: #689409
+}
+
+
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.parrafo {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+#fondo {  
+    background-color: #53afec; /* modificar el color a elección */
+    }
+    p a {  
+        color: #ff4242;  
+        text-decoration: none;
+        }
+        
